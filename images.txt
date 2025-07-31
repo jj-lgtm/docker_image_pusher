@@ -7,3 +7,4 @@
 xiaoyaliu/alist
 xhofe/alist:latest
 haroldli/alist-tvbox
+ailg/g-box
